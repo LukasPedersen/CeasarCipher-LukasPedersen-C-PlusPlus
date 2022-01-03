@@ -19,7 +19,7 @@ Formålet med dette projekt er at jeg skal opnå erfaring med C og algorithms.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-## C libraries
+## C Header Files
 
 | Name | Link | Usage |
 | --- | --- | --- |
